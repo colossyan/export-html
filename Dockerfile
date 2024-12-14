@@ -1,4 +1,4 @@
-FROM ghcr.io/puppeteer/puppeteer:22.7.0
+FROM ghcr.io/puppeteer/puppeteer:22.15.0
 
 ARG NODE_ENV=production
 
